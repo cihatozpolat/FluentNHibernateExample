@@ -1,0 +1,17 @@
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Program.exe.config
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Program.exe
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Program.pdb
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Domain.dll
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\FluentNHibernate.dll
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Iesi.Collections.dll
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\NHibernate.dll
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Repositories.dll
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Domain.pdb
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Repositories.pdb
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\FluentNHibernate.pdb
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\FluentNHibernate.xml
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\Iesi.Collections.xml
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\bin\Debug\NHibernate.xml
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\obj\Debug\Program.exe
+C:\Users\cozpolat\documents\visual studio 2015\Projects\FluentNHibernateExample2\Client\obj\Debug\Program.pdb

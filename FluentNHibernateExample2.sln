@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "FluentNHibernateExample2\Domain.csproj", "{5FD07D16-8925-428E-80B4-A6EC1E6221B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Client\Program.csproj", "{6A3DCBBE-7F1A-4542-B202-BCF3DD69E163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{BF2F9F43-DA20-4A10-BF89-6B434B270A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD07D16-8925-428E-80B4-A6EC1E6221B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD07D16-8925-428E-80B4-A6EC1E6221B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD07D16-8925-428E-80B4-A6EC1E6221B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD07D16-8925-428E-80B4-A6EC1E6221B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3DCBBE-7F1A-4542-B202-BCF3DD69E163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3DCBBE-7F1A-4542-B202-BCF3DD69E163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3DCBBE-7F1A-4542-B202-BCF3DD69E163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3DCBBE-7F1A-4542-B202-BCF3DD69E163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2F9F43-DA20-4A10-BF89-6B434B270A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2F9F43-DA20-4A10-BF89-6B434B270A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2F9F43-DA20-4A10-BF89-6B434B270A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2F9F43-DA20-4A10-BF89-6B434B270A92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
